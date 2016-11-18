@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: George Wilde
 subtitle:
-description:
-author: John Doe
+description: George Wilde - Web Developer
+author: George Wilde
 language:
-timezone:
+timezone: GMT
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://georgewilde.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
