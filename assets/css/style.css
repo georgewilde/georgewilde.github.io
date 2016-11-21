@@ -1,0 +1,36 @@
+@import url("bootstrap.min.css");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,800");
+body {
+    background: #3B88B1 url("../images/landscape_filtered.jpg") no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+#main_content {
+    margin-left: 100px;
+    margin-top: 140px;
+    color: #FFF;
+    text-shadow: 0px 0px 5px rgba(33, 42, 60, 0.43);
+}
+#name {
+    font-size: 50px;
+}
+#role {
+    font-size: 30px;
+}
+#social_links {
+    padding-top: 50px;
+}
+#social_links a:hover {
+    text-decoration: none;
+}
+.social_icon {
+    -webkit-filter: drop-shadow(0 0 1px #666);
+    filter: drop-shadow(0 0 1px #666);
+    margin-right: 12px;
+}
+.icon_path {
+    fill: #FFF;
+}
