@@ -14,14 +14,14 @@ body {
 }
 
 a {
-    color: #FFF;
+    color: #404040;
     cursor: pointer;
 }
 
 a:hover,
 a:focus,
 a:active {
-    color: #FFF;
+    color: #404040;
     text-decoration: none;
 }
 
