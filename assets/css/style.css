@@ -16,6 +16,7 @@ body {
 a {
     color: #404040;
     cursor: pointer;
+    text-shadow: none;
 }
 
 a:hover,
@@ -75,7 +76,6 @@ a:active {
 
     .navbar-custom .nav li a {
         color: white;
-        text-shadow: none;
     }
 
     .navbar-custom .nav li a:hover,
