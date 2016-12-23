@@ -75,6 +75,7 @@ a:active {
 
     .navbar-custom .nav li a {
         color: white;
+        text-shadow: none;
     }
 
     .navbar-custom .nav li a:hover,
